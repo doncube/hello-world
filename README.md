@@ -1,3 +1,3 @@
 # hello-world
 test repository
-\nhis is a test.
+This is a test.
